@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import './App.scss';
 import Form from './components/Form';
 
